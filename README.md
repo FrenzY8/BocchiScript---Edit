@@ -7,17 +7,17 @@
 >
 >
 
-<h3 align="center">Made with ❤️ by</h3>
+<h3 align="center">Constributor ❤️ :</h3>
 <p align="center">
-  <a href="https://github.com/SlavyanDesu"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/Pahri123"><img src="https://avatars1.githubusercontent.com/u/66406056?s=400&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/LeviathanH"><img src="https://avatars3.githubusercontent.com/u/75152820?s=400&u=8934104bf58533111f2f4cef7be5d72ebb79d75c&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/AlvioAdjiJanuar"><img src="https://avatars2.githubusercontent.com/u/68207798?s=400&u=29439908cd661d11443391cb74f5b07267b71117&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/VideFrelan"><img src="https://avatars1.githubusercontent.com/u/76523793?s=400&u=365f732cd3fc09ce75f6556715a00386005db57c&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/FrenzY8"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/FrenzY8"><img src="https://avatars1.githubusercontent.com/u/66406056?s=400&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/FrenzY8"><img src="https://avatars3.githubusercontent.com/u/75152820?s=400&u=8934104bf58533111f2f4cef7be5d72ebb79d75c&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/FrenzY8"><img src="https://avatars2.githubusercontent.com/u/68207798?s=400&u=29439908cd661d11443391cb74f5b07267b71117&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/FrenzY8"><img src="https://avatars1.githubusercontent.com/u/76523793?s=400&u=365f732cd3fc09ce75f6556715a00386005db57c&v=4" height="128" width="128" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SlavyanDesu"><img title="Author" src="https://img.shields.io/badge/Author-SlavyanDesu-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/SlavyanDesu"><img title="ReEdit" src="https://img.shields.io/badge/ReEdit-FrenzYSG-cyan.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
@@ -41,21 +41,23 @@
 </p>
 
 <h4 align="center">
-  <a href="https://chat.whatsapp.com/KSG5C4SGlT2IpRtFm05owk">Join WA BOT DEV Indonesia!</a>
+  <a href="https://wa.me/6285283200715">My Number!</a>
 </h4>
 </div>
 
-# Requirements
+# This All U Need
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
 * [libwebp](https://developers.google.com/speed/webp/download)
+* [Subscribe](https://youtube.com/FrenzY8)
+* [Follow](https://instagram.com/kenajaga.exe)
 * Any text editor
 
 # Installation
 ## 📝 Cloning this repo
 ```cmd
-> git clone https://github.com/SlavyanDesu/BocchiBot.git
+> git clone https://github.com/FrenzY8/BocchiScript-Edit
 > cd BocchiBot
 ```
 

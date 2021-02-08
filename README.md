@@ -1,23 +1,40 @@
 <div align="center">
-<img src="https://images5.alphacoders.com/911/911614.png" alt="BocchiBot" width="500" />
+<img src="https://images5.alphacoders.com/911/911614.png" alt="FrenzY X BOT" width="500" />
 
 # BocchiBot
 
-> BocchiBot is a multipurpose WhatsApp bot using wa-automate-nodejs library!
+> FrenzY X BOT is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 >
 >
 
 <h3 align="center">Constributor ❤️ :</h3>
 <p align="center">
-  <a href="https://github.com/FrenzY8"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/FrenzY8"><img src="https://avatars1.githubusercontent.com/u/66406056?s=400&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/FrenzY8"><img src="https://avatars3.githubusercontent.com/u/75152820?s=400&u=8934104bf58533111f2f4cef7be5d72ebb79d75c&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/FrenzY8"><img src="https://avatars2.githubusercontent.com/u/68207798?s=400&u=29439908cd661d11443391cb74f5b07267b71117&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/FrenzY8"><img src="https://avatars1.githubusercontent.com/u/76523793?s=400&u=365f732cd3fc09ce75f6556715a00386005db57c&v=4" height="128" width="128" /></a>
+<img src="https://camo.githubusercontent.com/9c184e56a76795eaeb8e7584424520de07a9aa4db57323f626ef9ff7730f62b9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f34644d3155373661415133646245366263332f67697068792e676966" width="350" height="350"/>
 </p>
+<p align="center">
+<a href="#"><img title="FrenzY8" src="https://img.shields.io/badge/🏷 FrenzY8 MODS 🏷-blue?colorA=%000000&colorB=%ffffff&style=for-the-badge"></a>
+</a>
+<p align="center">
+<a href="#"><img title="BennyGanteng" src="https://img.shields.io/badge/⚜ Benny Hidayat ⚜-yellow?colorA=%000000&colorB=%ffffff&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/FrenzY8"><img title="CREATOR :" src="https://img.shields.io/badge/DEVELOPER : -FrenzY8-blue.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a href="https://github.com/bennyganteng"><img title="CREDIT :" src="https://img.shields.io/badge/CREDIT : -BennyGanteng-yellow.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://instagram.com/kenajaga.exe/followers"><img title="❤ FOLLOWERS ❤" src="https://img.shields.io/github/followers/mhankbarbar?color=yellow&style=flat-square"></a>
+<a href="https://github.com/MhankBarBar/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bennyganteng/bennybotwa?color=red&style=flat-square"></a>
+<a href="https://github.com/MhankBarBar/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FrenzY8/iFrenzY-X-BENNY?color=red&style=flat-square"></a>
+<a href="https://github.com/MhankBarBar/whatsapp-bot"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+</p>
+<a href="https://youtube.com/bennyhidayat"><img title="SUBSCRIBE :" src="https://img.shields.io/badge/SUBSCRIBE : -BennyHidayat-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+<a href="https://youtube.com/FrenzY8"><img title="SUBSCRIBE :" src="https://img.shields.io/badge/SUBSCRIBE : -FrenzY8-yellow.svg?style=for-the-badge&logo=github"></a>
+
 
 <p align="center">
-  <a href="https://github.com/SlavyanDesu"><img title="ReEdit" src="https://img.shields.io/badge/ReEdit-FrenzYSG-cyan.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/FrenzY8"><img title="ReEdit" src="https://img.shields.io/badge/ReEdit-FrenzYSG-cyan.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">

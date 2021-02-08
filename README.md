@@ -20,15 +20,10 @@
 <p align="center">
 <a href="https://github.com/FrenzY8"><img title="CREATOR :" src="https://img.shields.io/badge/DEVELOPER : -FrenzY8-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/bennyganteng"><img title="CREDIT :" src="https://img.shields.io/badge/CREDIT : -BennyGanteng-yellow.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
 <a href="https://instagram.com/kenajaga.exe/followers"><img title="❤ FOLLOWERS ❤" src="https://img.shields.io/github/followers/mhankbarbar?color=yellow&style=flat-square"></a>
 <a href="https://github.com/MhankBarBar/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bennyganteng/bennybotwa?color=red&style=flat-square"></a>
 <a href="https://github.com/MhankBarBar/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FrenzY8/iFrenzY-X-BENNY?color=red&style=flat-square"></a>
 <a href="https://github.com/MhankBarBar/whatsapp-bot"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-<a href="https://youtube.com/bennyhidayat"><img title="SUBSCRIBE :" src="https://img.shields.io/badge/SUBSCRIBE : -BennyHidayat-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://youtube.com/FrenzY8"><img title="SUBSCRIBE :" src="https://img.shields.io/badge/SUBSCRIBE : -FrenzY8-yellow.svg?style=for-the-badge&logo=github"></a>
 
@@ -50,11 +45,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SlavyanDesu/BocchiBot#requirements">Requirements</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#installation">Installation</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#features">Features</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#thanks-to">Thanks to</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#license">License</a>
+  <a href="https://github.com/FrenzY8/BocchiScript---Edit#requirements">Requirements</a> •
+  <a href="https://github.com/FrenzY8/BocchiScript---Edit#installation">Installation</a> •
+  <a href="https://github.com/FrenzY8/BocchiScript---Edit#features">Features</a> •
+  <a href="https://github.com/FrenzY8/BocchiScript---Edit#thanks-to">Thanks to</a> •
+  <a href="https://github.com/FrenzY8/BocchiScript---Edit">License</a>
 </p>
 
 <h4 align="center">
